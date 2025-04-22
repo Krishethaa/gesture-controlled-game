@@ -30,10 +30,6 @@ This project lets you control simple PC or browser games using just your hand ge
 
 This project was a fun way to explore gesture recognition and human-computer interaction. I wanted to experiment with controlling games without a keyboard or controller, just using natural hand movements.
 
-## 📸 Demo
-
-*(You can add a screen recording or screenshots here)*
-
 ## 🧩 Future Ideas
 
 - Add support for two-hand gestures
